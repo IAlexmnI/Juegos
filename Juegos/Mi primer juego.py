@@ -9,9 +9,6 @@ print(f"\nAntiguamente, el ser humano caminaba a cuatro {pal1.lower()}")
 print(f"se expresaba mediante gruñidos {pal2.lower()} y no sabía encender")
 print(f"un {pal3.lower()} fuego. Esta es la historia del día que la humanidad")
 #print(f"cambió para siempre. (Traducida del {pal4.lower()} idioma de las cavernas)")
-#print(f"\nEl nombre era: {pal5.capitalize()}")
-
-
 
 
 #Mi historia propia
